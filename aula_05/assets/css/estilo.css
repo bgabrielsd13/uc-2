@@ -1,0 +1,16 @@
+img {
+  border-radius: 10px;
+}
+h3 {
+  color: blueviolet;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.abertura {
+  line-height: 1.5;
+  border: 3px solid blue;
+
+  text-align: LEFT;
+  padding: 5px;
+
+  border-radius: 5px;
+}
